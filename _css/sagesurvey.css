@@ -1,0 +1,43 @@
+/*   Art Brown
+     sagesurvey.css
+     MCC Sage Bistro Customer Survey
+     08.22.15
+*/
+
+.ui-content h2 { font-size:24px;
+	 			 color: #e7b992 !important;
+				 /*text-shadow: none !important;*/
+				 padding-bottom: 10px;
+				 text-shadow: 2px 2px #121F05;
+}
+	
+}
+
+.ui-content h6 { font-size: 18px;
+	 			 color: #f3d7c0 !important;
+				 text-shadow: none !important;
+				 padding: 0px;
+}
+
+.ui-content { font-size: 12px;
+	 		  color: #f6f6f6 !important;
+			  text-shadow: none !important;
+	
+}
+
+
+
+.ui-footer { font-size:16px;
+	 		 color: #f6f6f6 !important;
+			 text-shadow: none !important;
+			 padding: 10px;
+}
+
+.ui-footer a:link { color: #c2c8a7 !important;
+		 			text-decoration: none;
+}
+
+.response { font-size: 16px;
+					padding: 15px;
+					text-align: center;
+}
